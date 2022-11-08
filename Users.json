@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "password": "Vyakhya#1",
+      "uname": "Vyakhya",
+      "email": "vyverma@deloitte.com",
+      "id": 1
+    },
+    {
+      "password": "Merin@12",
+      "uname": "Merin",
+      "email": "meshibu@deloitte.com",
+      "id": 2
+    },
+    {
+      "password": "Kaustbh#1",
+      "uname": "Kaustubh",
+      "email": "kaus@deloitte.com",
+      "id": 3
+    },
+    {
+      "password": "Suraj#12",
+      "uname": "Suraj",
+      "email": "suraj@deloitte.com",
+      "id": 4
+    }
+  ]
+}
